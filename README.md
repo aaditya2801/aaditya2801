@@ -29,7 +29,7 @@
  [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
  [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
  [<img align="left" alt="Hadoop" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" />][hadoop]
- [<img align="left" alt="ML" width="45px" src="https://mpng.subpng.com/20190621/vbg/kisspng-machine-learning-human-brain-vector-graphics-compu-solutions-and-services-mvp-tech-5d0d7cc224e5b2.8390510615611649941511.jpg" />][ML]
+ [<img align="left" alt="ML" width="45px" src="https://img.favpng.com/11/22/11/artificial-intelligence-deep-learning-technology-machine-learning-png-favpng-RRaxzgwB6AtJcXT5wJ9MdWTZC.jpg" />][ML]
  <br />
  <br />
 
