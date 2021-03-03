@@ -9,8 +9,8 @@
  ### Connect with me:
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917509357894) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="left" alt="Aaditya Tiwari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="Aaditya Tiwari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
  <br />
 
@@ -28,6 +28,7 @@
  [<img align="left" alt="Jenkins" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" />][jenkins]
  [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
  [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+ [<img align="left" alt="Hadoop" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" />][hadoop]
  <br />
  <br />
 
@@ -87,4 +88,5 @@
 [jenkins]: https://www.jenkins.io/
 [git]: https://git-scm.com/ 
 [github]: https://github.com/
+[hadoop]: https://hadoop.apache.org/
 
