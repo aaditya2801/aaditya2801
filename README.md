@@ -15,7 +15,7 @@ Hi there, I'm Aaditya 👋
 
  ### Tools and Technologies:
 
- [<img align="left" alt="AWS" width="26px" src="https://miro.medium.com/max/5250/1*b_al7C5p26tbZG4sy-CWqw.png" />]
+ <img align="left" alt="AWS" width="50px" src="https://miro.medium.com/max/5250/1*b_al7C5p26tbZG4sy-CWqw.png" />
  <br />
  <br />
 
