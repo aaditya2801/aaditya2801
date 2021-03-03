@@ -7,6 +7,7 @@
  - ⚡ Fun fact: I love to play Cricket and cooking is my passion 🤩
 
  ### Connect with me:
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917509357894) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -67,6 +68,10 @@
 
 
 ---
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+<a href="https://github.com/vedant-kakde"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 [instagram]: https://www.instagram.com/addy_the_maddy/
 [linkedin]: https://www.linkedin.com/in/aaditya-tiwari-812a39183/
