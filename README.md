@@ -1,4 +1,4 @@
-# Hi there, I'm Aaditya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" widht="20">
+# Hi there, I'm Aaditya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" widht="5">
 
  ## I'm a Student, EC Engineer, and Aviatrix Certified Engineer!!
 
