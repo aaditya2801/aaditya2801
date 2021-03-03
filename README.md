@@ -15,7 +15,7 @@
 
  ### Tools and Technologies:
 
- [<img align="left" alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />][aws]
+ [<img align="left" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.js" />][aws]
  [<img align="left" alt="GCP" width="50px" src="https://www.sakurasky.com/images/gcp-logo.jpg" />][gcp]
  <br />
  <br />
