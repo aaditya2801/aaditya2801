@@ -1,4 +1,4 @@
-Hi there, I'm Aaditya 👋
+### Hi there, I'm Aaditya 👋
 
  ## I'm a Student, EC Engineer, and Aviatrix Certified Engineer!!
 
@@ -16,6 +16,7 @@ Hi there, I'm Aaditya 👋
  ### Tools and Technologies:
 
  [<img align="left" alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />][aws]
+ [<img align="left" alt="GCP" width="50px" src="https://www.sakurasky.com/images/gcp-logo.jpg" />][gcp]
  <br />
  <br />
 
@@ -40,15 +41,15 @@ Hi there, I'm Aaditya 👋
 <!--footer-->
 
 
-### 📺 Latest YouTube Videos
+### 📺 LinkedIn Videos
 
-<!-- YOUTUBE:START -->
-- [Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
+<!-- LinkedIn:START -->
+- [Azure AKS and Ansible Integration](https://www.linkedin.com/posts/aaditya-tiwari-812a39183_vimaldaga-righteducation-educationredefine-activity-6772495154822701056-FntC)
 - [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
 - [[#7] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #7)](https://www.youtube.com/watch?v=pQyR71kNTo8)
 - [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
 - [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
-<!-- YOUTUBE:END -->
+<!-- LinkedIn:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
@@ -64,22 +65,11 @@ Hi there, I'm Aaditya 👋
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
 
 [instagram]: https://www.instagram.com/addy_the_maddy/
 [linkedin]: https://www.linkedin.com/in/aaditya-tiwari-812a39183/
 [aws]: https://aws.amazon.com/
+[gcp]: https://cloud.google.com/
 
