@@ -20,6 +20,25 @@ Hi there, I'm Aaditya 👋
  <br />
 
 ---
+<!--Github Progess bar-->
+
+## Quick Overview 📝
+<div align="center">    
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aaditya2801&show_icons=true&include_all_commits=true&theme=radical" alt="Aaditya's github stats" />
+</a>
+<br>
+<br>
+<a href="https://github.com/hackcoderr/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaditya2801&layout=compact&theme=radical" />
+</a>
+</div>
+
+
+
+<!--footer-->
+
 
 ### 📺 Latest YouTube Videos
 
@@ -59,15 +78,6 @@ Hi there, I'm Aaditya 👋
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Aaditya GitHub Stats" src="https://github-readme-stats.aaditya2801.vercel.app/api?username=aaditya2801&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://www.instagram.com/addy_the_maddy/
 [linkedin]: https://www.linkedin.com/in/aaditya-tiwari-812a39183/
