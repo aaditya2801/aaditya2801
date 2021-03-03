@@ -13,9 +13,9 @@ Hi there, I'm Aaditya 👋
 
  <br />
 
- ### Languages and Tools:
+ ### Tools and Technologies:
 
- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+ [<img align="left" alt="AWS" width="26px" src="https://miro.medium.com/max/5250/1*b_al7C5p26tbZG4sy-CWqw.png" />]
  <br />
  <br />
 
