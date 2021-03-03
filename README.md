@@ -15,9 +15,18 @@
 
  ### Tools and Technologies:
 
- [<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />][aws]
- [<img align="left" alt="GCP" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />][gcp]
- [<img align="left" alt="Azure" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />][azure]
+ [<img align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />][aws]
+ [<img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />][gcp]
+ [<img align="left" alt="Azure" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" />][azure]
+ [<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][python]
+ [<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
+ [<img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker]
+ [<img align="left" alt="Ansible" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" />][ansible]
+ [<img align="left" alt="K8S" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />][k8s]
+ [<img align="left" alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />][terraform]
+ [<img align="left" alt="Jenkins" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" />][jenkins]
+ [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
+ [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
  <br />
  <br />
 
@@ -64,4 +73,13 @@
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/
 [azure]: https://azure.microsoft.com/en-in/features/azure-portal/
+[python]: https://www.python.org/
+[linux]: https://www.linux.org/
+[docker]: https://www.docker.com/
+[ansible]: https://www.ansible.com/
+[k8s]: https://kubernetes.io/
+[terraform]: https://www.terraform.io/
+[jenkins]: https://www.jenkins.io/
+[git]: https://git-scm.com/ 
+[github]: https://github.com/
 
