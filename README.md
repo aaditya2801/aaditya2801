@@ -70,12 +70,12 @@
 - [Voice Assistant: Controlling AWS Cloud](https://www.linkedin.com/posts/aaditya-tiwari_awscloud-awscli-aws-activity-6726393740866519040-pI1-)
 - [Voice Assistant: Controlling Linux Server](https://www.linkedin.com/posts/aaditya-tiwari_python-cgi-iiec-activity-6716239681752854528-SHti)
 - [contribute a limited/specific amount of storage as a slave to the hadoop cluster](https://www.linkedin.com/posts/aaditya-tiwari_bigdataanalytics-bigdataengineer-arth2020-activity-6723131658645704704-5Osh)
-- [High Availability Architecture on the top of AWS Public Cloud](https://www.linkedin.com/posts/aaditya-tiwari-_awscloud-awscli-aws-activity-6726393740866519040-YL4S)
-- [Convert the OS based program into a menu driven program](https://www.linkedin.com/posts/aaditya-tiwari_iiec-iiecabrrise-iiecabrconnect-activity-6702888496463532032-GxXx)
+- [High Availability Architecture on the top of AWS Public Cloud](https://www.linkedin.com/posts/aaditya-tiwari_python-aws-publiccloud-activity-6721293216735481856-E-8P)
+- [Convert the OS based program into a menu driven program](https://www.linkedin.com/posts/aaditya-tiwari_iiec-iiecabrrise-iiecabrconnect-activity-6702888496463532032-W7HO)
 - [Social Chat App](https://www.linkedin.com/posts/aaditya-tiwari_flutter-vimaldaga-flutterbylw-activity-6727452976278978560-yvYR)
 - [Animation App](https://www.linkedin.com/posts/aaditya-tiwari_flutter-vimaldaga-flutterbylw-activity-6717064874138202112-yvAA)
-- [Firebase App](https://www.linkedin.com/posts/aaditya-tiwari_flutter-vimaldaga-flutterbylw-activity-6707533681021599744-c0E4)
-- [Audio-Video App](https://www.linkedin.com/posts/aaditya-tiwari_successfully-completed-task1-flutter-activity-6696313445878398976-hfEg)
+- [Firebase App](https://www.linkedin.com/posts/aaditya-tiwari_flutter-vimaldaga-flutterbylw-activity-6707533681021599744-kow0)
+- [Audio-Video App](https://www.linkedin.com/posts/aaditya-tiwari_successfully-completed-task1-flutter-activity-6696313445878398976-3Uu1)
 <!-- LinkedIn:END -->
 ---
 
