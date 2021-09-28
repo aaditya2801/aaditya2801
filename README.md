@@ -1,6 +1,6 @@
 # Hi there, I'm Aaditya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
- ## I'm a Student, EC Engineer, and Aviatrix Certified Engineer!!
+ ## I'm a Student, Red Hat Certified Engineer, GitLab Certified Associate, and Aviatrix Certified Engineer!!
 
  - 🌱 I’m currently learning everything 🤣
  - 🥅 2021 Goals: Contribute more to Open Source projects
