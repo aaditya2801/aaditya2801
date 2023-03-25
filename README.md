@@ -1,9 +1,9 @@
 # Hi there, I'm Aaditya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
- ## I'm a Student, Red Hat Certified Engineer, GitLab Certified Associate, and Aviatrix Certified Engineer!!
+ ## I'm a Programmer Analyst Trainee at Cognizant.
+ ## Certified as RHCSA, RHCE, CKA, LFCS.
 
  - 🌱 I’m currently learning everything 🤣
- - 🥅 2021 Goals: Contribute more to Open Source projects
  - ⚡ Fun fact: I love to play Cricket and cooking is my passion 🤩
 
  ### Connect with me:
