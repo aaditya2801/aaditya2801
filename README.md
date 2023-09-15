@@ -1,6 +1,6 @@
 # Hi there, I'm Aaditya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
- ## I'm a Programmer Analyst Trainee at Cognizant.
+ ## I'm a Programmer Analyst at Cognizant.
  ## Certified as RHCSA, RHCE, CKA, LFCS.
 
  - 🌱 I’m currently learning everything 🤣
